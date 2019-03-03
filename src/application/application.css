@@ -1,0 +1,28 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root {
+	-fx-background-color: white;
+}
+
+.lbl {
+	-fx-font-size : 200%;
+	-fx-alignment: center;
+}
+
+.lbl2 {
+	-fx-font-size : 200%;
+	-fx-alignment: center;
+}
+
+.btn1 {
+	-fx-font-size : 200%;
+}
+
+.bttn:active {
+	-fx-color: #00FFFF;
+}
+
+.btn {
+	-fx-font-size : 200%;
+	/*-fx-color: #00FFFF;*/
+}
