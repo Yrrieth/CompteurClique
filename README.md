@@ -2,7 +2,7 @@
 
 L2 S3 Programmation objet
 
-A simple clicker game to learn how to use JavaFX.
+I created a simple clicker game to teach me how to use JavaFX.
 
 ***
 ### On Eclipse
